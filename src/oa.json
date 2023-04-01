@@ -1,0 +1,92 @@
+[
+  {
+    "person": {
+      "name": "John Doe",
+      "age": 45,
+      "disease": "Hypertension",
+      "duration_of_suffering": "3 weeks",
+      "treatment": "Antimalarial medication"
+    }
+  },
+  {
+    "person": {
+      "name": "Mary Smith",
+      "age": 32,
+      "disease": "Asthma",
+      "duration_of_suffering": "5 years",
+      "treatment": "Inhaler"
+    }
+  },
+  {
+    "person": {
+      "name": "David Johnson",
+      "age": 50,
+      "disease": "Diabetes",
+      "duration_of_suffering": "7 years",
+      "treatment": "Metformin"
+    }
+  },
+  {
+    "person": {
+      "name": "Sarah Brown",
+      "age": 28,
+      "disease": "Hypertension",
+      "duration_of_suffering": "2 years",
+      "treatment": "Blood pressure medication"
+    }
+  },
+  {
+    "person": {
+      "name": "Michael Johnson",
+      "age": 56,
+      "disease": "Arthritis",
+      "duration_of_suffering": "10 years",
+      "treatment": "Insulin injections"
+    }
+  },
+  {
+    "person": {
+      "name": "Emily Wilson",
+      "age": 42,
+      "disease": "Arthritis",
+      "duration_of_suffering": "5 years",
+      "treatment": "ACE inhibitors"
+    }
+  },
+  {
+    "person": {
+      "name": "Daniel Lee",
+      "age": 60,
+      "disease": "Arthritis",
+      "duration_of_suffering": "10 years",
+      "treatment": "NSAIDs"
+    }
+  },
+  {
+    "person": {
+      "name": "Amanda Scott",
+      "age": 25,
+      "disease": "Migraine",
+      "duration_of_suffering": "8 years",
+      "treatment": "Triptans"
+    }
+  },
+  {
+    "person": {
+      "name": "Jessica Brown",
+      "age": 36,
+      "disease": "Depression",
+      "duration_of_suffering": "4 years",
+      "treatment": "Selective serotonin reuptake inhibitors (SSRIs)"
+    }
+  },
+  {
+    "person": {
+      "name": "Mark Wilson",
+      "age": 47,
+      "disease": "Hypertension",
+      "duration_of_suffering": "20 years",
+      "treatment": "Bronchodilators"
+    }
+  }
+]
